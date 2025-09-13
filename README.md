@@ -10,7 +10,8 @@ Cálculo automático do IMC
 
 Interface responsiva e moderna
 
-![Calculadora-IMC](calculadora-IMC/assets/images/calculadora-imc.png)
+![Calculadora-IMC](assets/images/caculadora-imc.png)
+![Calculadora-IMC](assets/images/caculadora-imc-peso.png)
 
 ### Tecnologias Utilizadas
 
